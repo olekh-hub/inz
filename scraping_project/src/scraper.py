@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-def get_page_source(url: str, driver: str) -> str:
+def get_page_source(url: str, driver: str):
     """Downloading page source HTML"""
 
     print(f"Downloading page {url}...")
@@ -19,4 +19,4 @@ def get_page_source(url: str, driver: str) -> str:
     driver.get(url)
     time.sleep(2)
     html = driver.page_source
-    return html
+    return html, driver
