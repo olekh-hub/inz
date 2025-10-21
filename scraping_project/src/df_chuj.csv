@@ -1,0 +1,381 @@
+Date,Home,Away,match_key
+2024-08-16,Man Utd,Fulham,Man Utd-Fulham
+2024-08-17,Ipswich,Liverpool,Ipswich-Liverpool
+2024-08-17,Newcastle,Southampton,Newcastle-Southampton
+2024-08-17,Everton,Brighton,Everton-Brighton
+2024-08-17,Notts Forest,Bournemouth,Notts Forest-Bournemouth
+2024-08-17,Arsenal,Wolves,Arsenal-Wolves
+2024-08-17,West Ham,Aston Villa,West Ham-Aston Villa
+2024-08-18,Brentford,Crystal Palace,Brentford-Crystal Palace
+2024-08-18,Chelsea,Man City,Chelsea-Man City
+2024-08-19,Leicester,Tottenham,Leicester-Tottenham
+2024-08-24,Brighton,Man Utd,Brighton-Man Utd
+2024-08-24,Man City,Ipswich,Man City-Ipswich
+2024-08-24,Southampton,Notts Forest,Southampton-Notts Forest
+2024-08-24,Tottenham,Everton,Tottenham-Everton
+2024-08-24,Fulham,Leicester,Fulham-Leicester
+2024-08-24,Crystal Palace,West Ham,Crystal Palace-West Ham
+2024-08-24,Aston Villa,Arsenal,Aston Villa-Arsenal
+2024-08-25,Wolves,Chelsea,Wolves-Chelsea
+2024-08-25,Bournemouth,Newcastle,Bournemouth-Newcastle
+2024-08-25,Liverpool,Brentford,Liverpool-Brentford
+2024-08-31,Arsenal,Brighton,Arsenal-Brighton
+2024-08-31,Ipswich,Fulham,Ipswich-Fulham
+2024-08-31,Notts Forest,Wolves,Notts Forest-Wolves
+2024-08-31,Brentford,Southampton,Brentford-Southampton
+2024-08-31,Leicester,Aston Villa,Leicester-Aston Villa
+2024-08-31,Everton,Bournemouth,Everton-Bournemouth
+2024-08-31,West Ham,Man City,West Ham-Man City
+2024-09-01,Newcastle,Tottenham,Newcastle-Tottenham
+2024-09-01,Chelsea,Crystal Palace,Chelsea-Crystal Palace
+2024-09-01,Man Utd,Liverpool,Man Utd-Liverpool
+2024-09-14,Southampton,Man Utd,Southampton-Man Utd
+2024-09-14,Man City,Brentford,Man City-Brentford
+2024-09-14,Liverpool,Notts Forest,Liverpool-Notts Forest
+2024-09-14,Crystal Palace,Leicester,Crystal Palace-Leicester
+2024-09-14,Fulham,West Ham,Fulham-West Ham
+2024-09-14,Brighton,Ipswich,Brighton-Ipswich
+2024-09-14,Aston Villa,Everton,Aston Villa-Everton
+2024-09-14,Bournemouth,Chelsea,Bournemouth-Chelsea
+2024-09-15,Tottenham,Arsenal,Tottenham-Arsenal
+2024-09-15,Wolves,Newcastle,Wolves-Newcastle
+2024-09-21,West Ham,Chelsea,West Ham-Chelsea
+2024-09-21,Tottenham,Brentford,Tottenham-Brentford
+2024-09-21,Aston Villa,Wolves,Aston Villa-Wolves
+2024-09-21,Fulham,Newcastle,Fulham-Newcastle
+2024-09-21,Southampton,Ipswich,Southampton-Ipswich
+2024-09-21,Leicester,Everton,Leicester-Everton
+2024-09-21,Liverpool,Bournemouth,Liverpool-Bournemouth
+2024-09-21,Crystal Palace,Man Utd,Crystal Palace-Man Utd
+2024-09-22,Brighton,Notts Forest,Brighton-Notts Forest
+2024-09-22,Man City,Arsenal,Man City-Arsenal
+2024-09-28,Newcastle,Man City,Newcastle-Man City
+2024-09-28,Brentford,West Ham,Brentford-West Ham
+2024-09-28,Everton,Crystal Palace,Everton-Crystal Palace
+2024-09-28,Arsenal,Leicester,Arsenal-Leicester
+2024-09-28,Chelsea,Brighton,Chelsea-Brighton
+2024-09-28,Notts Forest,Fulham,Notts Forest-Fulham
+2024-09-28,Wolves,Liverpool,Wolves-Liverpool
+2024-09-29,Ipswich,Aston Villa,Ipswich-Aston Villa
+2024-09-29,Man Utd,Tottenham,Man Utd-Tottenham
+2024-09-30,Bournemouth,Southampton,Bournemouth-Southampton
+2024-10-05,Crystal Palace,Liverpool,Crystal Palace-Liverpool
+2024-10-05,Brentford,Wolves,Brentford-Wolves
+2024-10-05,Leicester,Bournemouth,Leicester-Bournemouth
+2024-10-05,Man City,Fulham,Man City-Fulham
+2024-10-05,West Ham,Ipswich,West Ham-Ipswich
+2024-10-05,Arsenal,Southampton,Arsenal-Southampton
+2024-10-05,Everton,Newcastle,Everton-Newcastle
+2024-10-06,Aston Villa,Man Utd,Aston Villa-Man Utd
+2024-10-06,Chelsea,Notts Forest,Chelsea-Notts Forest
+2024-10-06,Brighton,Tottenham,Brighton-Tottenham
+2024-10-19,Tottenham,West Ham,Tottenham-West Ham
+2024-10-19,Fulham,Aston Villa,Fulham-Aston Villa
+2024-10-19,Ipswich,Everton,Ipswich-Everton
+2024-10-19,Southampton,Leicester,Southampton-Leicester
+2024-10-19,Man Utd,Brentford,Man Utd-Brentford
+2024-10-19,Newcastle,Brighton,Newcastle-Brighton
+2024-10-19,Bournemouth,Arsenal,Bournemouth-Arsenal
+2024-10-20,Wolves,Man City,Wolves-Man City
+2024-10-20,Liverpool,Chelsea,Liverpool-Chelsea
+2024-10-21,Notts Forest,Crystal Palace,Notts Forest-Crystal Palace
+2024-10-25,Leicester,Notts Forest,Leicester-Notts Forest
+2024-10-26,Brighton,Wolves,Brighton-Wolves
+2024-10-26,Man City,Southampton,Man City-Southampton
+2024-10-26,Brentford,Ipswich,Brentford-Ipswich
+2024-10-26,Aston Villa,Bournemouth,Aston Villa-Bournemouth
+2024-10-26,Everton,Fulham,Everton-Fulham
+2024-10-27,West Ham,Man Utd,West Ham-Man Utd
+2024-10-27,Chelsea,Newcastle,Chelsea-Newcastle
+2024-10-27,Crystal Palace,Tottenham,Crystal Palace-Tottenham
+2024-10-27,Arsenal,Liverpool,Arsenal-Liverpool
+2024-11-02,Newcastle,Arsenal,Newcastle-Arsenal
+2024-11-02,Liverpool,Brighton,Liverpool-Brighton
+2024-11-02,Southampton,Everton,Southampton-Everton
+2024-11-02,Notts Forest,West Ham,Notts Forest-West Ham
+2024-11-02,Ipswich,Leicester,Ipswich-Leicester
+2024-11-02,Bournemouth,Man City,Bournemouth-Man City
+2024-11-02,Wolves,Crystal Palace,Wolves-Crystal Palace
+2024-11-03,Tottenham,Aston Villa,Tottenham-Aston Villa
+2024-11-03,Man Utd,Chelsea,Man Utd-Chelsea
+2024-11-04,Fulham,Brentford,Fulham-Brentford
+2024-11-09,West Ham,Everton,West Ham-Everton
+2024-11-09,Crystal Palace,Fulham,Crystal Palace-Fulham
+2024-11-09,Wolves,Southampton,Wolves-Southampton
+2024-11-09,Brentford,Bournemouth,Brentford-Bournemouth
+2024-11-09,Brighton,Man City,Brighton-Man City
+2024-11-09,Liverpool,Aston Villa,Liverpool-Aston Villa
+2024-11-10,Tottenham,Ipswich,Tottenham-Ipswich
+2024-11-10,Notts Forest,Newcastle,Notts Forest-Newcastle
+2024-11-10,Man Utd,Leicester,Man Utd-Leicester
+2024-11-10,Chelsea,Arsenal,Chelsea-Arsenal
+2024-11-23,Leicester,Chelsea,Leicester-Chelsea
+2024-11-23,Aston Villa,Crystal Palace,Aston Villa-Crystal Palace
+2024-11-23,Fulham,Wolves,Fulham-Wolves
+2024-11-23,Bournemouth,Brighton,Bournemouth-Brighton
+2024-11-23,Arsenal,Notts Forest,Arsenal-Notts Forest
+2024-11-23,Everton,Brentford,Everton-Brentford
+2024-11-23,Man City,Tottenham,Man City-Tottenham
+2024-11-24,Southampton,Liverpool,Southampton-Liverpool
+2024-11-24,Ipswich,Man Utd,Ipswich-Man Utd
+2024-11-25,Newcastle,West Ham,Newcastle-West Ham
+2024-11-29,Brighton,Southampton,Brighton-Southampton
+2024-11-30,Wolves,Bournemouth,Wolves-Bournemouth
+2024-11-30,Notts Forest,Ipswich,Notts Forest-Ipswich
+2024-11-30,Brentford,Leicester,Brentford-Leicester
+2024-11-30,Crystal Palace,Newcastle,Crystal Palace-Newcastle
+2024-11-30,West Ham,Arsenal,West Ham-Arsenal
+2024-12-01,Man Utd,Everton,Man Utd-Everton
+2024-12-01,Tottenham,Fulham,Tottenham-Fulham
+2024-12-01,Chelsea,Aston Villa,Chelsea-Aston Villa
+2024-12-01,Liverpool,Man City,Liverpool-Man City
+2024-12-03,Ipswich,Crystal Palace,Ipswich-Crystal Palace
+2024-12-03,Leicester,West Ham,Leicester-West Ham
+2024-12-04,Newcastle,Liverpool,Newcastle-Liverpool
+2024-12-04,Everton,Wolves,Everton-Wolves
+2024-12-04,Man City,Notts Forest,Man City-Notts Forest
+2024-12-04,Southampton,Chelsea,Southampton-Chelsea
+2024-12-04,Arsenal,Man Utd,Arsenal-Man Utd
+2024-12-04,Aston Villa,Brentford,Aston Villa-Brentford
+2024-12-05,Fulham,Brighton,Fulham-Brighton
+2024-12-05,Bournemouth,Tottenham,Bournemouth-Tottenham
+2024-12-07,Aston Villa,Southampton,Aston Villa-Southampton
+2024-12-07,Crystal Palace,Man City,Crystal Palace-Man City
+2024-12-07,Brentford,Newcastle,Brentford-Newcastle
+2024-12-07,Man Utd,Notts Forest,Man Utd-Notts Forest
+2024-12-08,Leicester,Brighton,Leicester-Brighton
+2024-12-08,Ipswich,Bournemouth,Ipswich-Bournemouth
+2024-12-08,Fulham,Arsenal,Fulham-Arsenal
+2024-12-08,Tottenham,Chelsea,Tottenham-Chelsea
+2024-12-09,West Ham,Wolves,West Ham-Wolves
+2024-12-14,Liverpool,Fulham,Liverpool-Fulham
+2024-12-14,Wolves,Ipswich,Wolves-Ipswich
+2024-12-14,Newcastle,Leicester,Newcastle-Leicester
+2024-12-14,Arsenal,Everton,Arsenal-Everton
+2024-12-14,Notts Forest,Aston Villa,Notts Forest-Aston Villa
+2024-12-15,Brighton,Crystal Palace,Brighton-Crystal Palace
+2024-12-15,Man City,Man Utd,Man City-Man Utd
+2024-12-15,Southampton,Tottenham,Southampton-Tottenham
+2024-12-15,Chelsea,Brentford,Chelsea-Brentford
+2024-12-16,Bournemouth,West Ham,Bournemouth-West Ham
+2024-12-21,Aston Villa,Man City,Aston Villa-Man City
+2024-12-21,Ipswich,Newcastle,Ipswich-Newcastle
+2024-12-21,Brentford,Notts Forest,Brentford-Notts Forest
+2024-12-21,West Ham,Brighton,West Ham-Brighton
+2024-12-21,Crystal Palace,Arsenal,Crystal Palace-Arsenal
+2024-12-22,Man Utd,Bournemouth,Man Utd-Bournemouth
+2024-12-22,Leicester,Wolves,Leicester-Wolves
+2024-12-22,Everton,Chelsea,Everton-Chelsea
+2024-12-22,Fulham,Southampton,Fulham-Southampton
+2024-12-22,Tottenham,Liverpool,Tottenham-Liverpool
+2024-12-26,Man City,Everton,Man City-Everton
+2024-12-26,Southampton,West Ham,Southampton-West Ham
+2024-12-26,Newcastle,Aston Villa,Newcastle-Aston Villa
+2024-12-26,Notts Forest,Tottenham,Notts Forest-Tottenham
+2024-12-26,Bournemouth,Crystal Palace,Bournemouth-Crystal Palace
+2024-12-26,Chelsea,Fulham,Chelsea-Fulham
+2024-12-26,Wolves,Man Utd,Wolves-Man Utd
+2024-12-26,Liverpool,Leicester,Liverpool-Leicester
+2024-12-27,Brighton,Brentford,Brighton-Brentford
+2024-12-27,Arsenal,Ipswich,Arsenal-Ipswich
+2024-12-29,Leicester,Man City,Leicester-Man City
+2024-12-29,Everton,Notts Forest,Everton-Notts Forest
+2024-12-29,Tottenham,Wolves,Tottenham-Wolves
+2024-12-29,Fulham,Bournemouth,Fulham-Bournemouth
+2024-12-29,Crystal Palace,Southampton,Crystal Palace-Southampton
+2024-12-29,West Ham,Liverpool,West Ham-Liverpool
+2024-12-30,Aston Villa,Brighton,Aston Villa-Brighton
+2024-12-30,Ipswich,Chelsea,Ipswich-Chelsea
+2024-12-30,Man Utd,Newcastle,Man Utd-Newcastle
+2025-01-01,Brentford,Arsenal,Brentford-Arsenal
+2025-01-04,Tottenham,Newcastle,Tottenham-Newcastle
+2025-01-04,Aston Villa,Leicester,Aston Villa-Leicester
+2025-01-04,Bournemouth,Everton,Bournemouth-Everton
+2025-01-04,Crystal Palace,Chelsea,Crystal Palace-Chelsea
+2025-01-04,Southampton,Brentford,Southampton-Brentford
+2025-01-04,Man City,West Ham,Man City-West Ham
+2025-01-04,Brighton,Arsenal,Brighton-Arsenal
+2025-01-05,Fulham,Ipswich,Fulham-Ipswich
+2025-01-05,Liverpool,Man Utd,Liverpool-Man Utd
+2025-01-06,Wolves,Notts Forest,Wolves-Notts Forest
+2025-01-14,West Ham,Fulham,West Ham-Fulham
+2025-01-14,Chelsea,Bournemouth,Chelsea-Bournemouth
+2025-01-14,Brentford,Man City,Brentford-Man City
+2025-01-14,Notts Forest,Liverpool,Notts Forest-Liverpool
+2025-01-15,Leicester,Crystal Palace,Leicester-Crystal Palace
+2025-01-15,Everton,Aston Villa,Everton-Aston Villa
+2025-01-15,Newcastle,Wolves,Newcastle-Wolves
+2025-01-15,Arsenal,Tottenham,Arsenal-Tottenham
+2025-01-16,Ipswich,Brighton,Ipswich-Brighton
+2025-01-16,Man Utd,Southampton,Man Utd-Southampton
+2025-01-18,Newcastle,Bournemouth,Newcastle-Bournemouth
+2025-01-18,Leicester,Fulham,Leicester-Fulham
+2025-01-18,West Ham,Crystal Palace,West Ham-Crystal Palace
+2025-01-18,Brentford,Liverpool,Brentford-Liverpool
+2025-01-18,Arsenal,Aston Villa,Arsenal-Aston Villa
+2025-01-19,Everton,Tottenham,Everton-Tottenham
+2025-01-19,Man Utd,Brighton,Man Utd-Brighton
+2025-01-19,Notts Forest,Southampton,Notts Forest-Southampton
+2025-01-19,Ipswich,Man City,Ipswich-Man City
+2025-01-20,Chelsea,Wolves,Chelsea-Wolves
+2025-01-25,Southampton,Newcastle,Southampton-Newcastle
+2025-01-25,Brighton,Everton,Brighton-Everton
+2025-01-25,Liverpool,Ipswich,Liverpool-Ipswich
+2025-01-25,Bournemouth,Notts Forest,Bournemouth-Notts Forest
+2025-01-25,Wolves,Arsenal,Wolves-Arsenal
+2025-01-25,Man City,Chelsea,Man City-Chelsea
+2025-01-26,Crystal Palace,Brentford,Crystal Palace-Brentford
+2025-01-26,Tottenham,Leicester,Tottenham-Leicester
+2025-01-26,Aston Villa,West Ham,Aston Villa-West Ham
+2025-01-26,Fulham,Man Utd,Fulham-Man Utd
+2025-02-01,Notts Forest,Brighton,Notts Forest-Brighton
+2025-02-01,Everton,Leicester,Everton-Leicester
+2025-02-01,Newcastle,Fulham,Newcastle-Fulham
+2025-02-01,Bournemouth,Liverpool,Bournemouth-Liverpool
+2025-02-01,Ipswich,Southampton,Ipswich-Southampton
+2025-02-01,Wolves,Aston Villa,Wolves-Aston Villa
+2025-02-02,Man Utd,Crystal Palace,Man Utd-Crystal Palace
+2025-02-02,Brentford,Tottenham,Brentford-Tottenham
+2025-02-02,Arsenal,Man City,Arsenal-Man City
+2025-02-03,Chelsea,West Ham,Chelsea-West Ham
+2025-02-12,Everton,Liverpool,Everton-Liverpool
+2025-02-14,Brighton,Chelsea,Brighton-Chelsea
+2025-02-15,Leicester,Arsenal,Leicester-Arsenal
+2025-02-15,Fulham,Notts Forest,Fulham-Notts Forest
+2025-02-15,Man City,Newcastle,Man City-Newcastle
+2025-02-15,Southampton,Bournemouth,Southampton-Bournemouth
+2025-02-15,Aston Villa,Ipswich,Aston Villa-Ipswich
+2025-02-15,West Ham,Brentford,West Ham-Brentford
+2025-02-15,Crystal Palace,Everton,Crystal Palace-Everton
+2025-02-16,Liverpool,Wolves,Liverpool-Wolves
+2025-02-16,Tottenham,Man Utd,Tottenham-Man Utd
+2025-02-19,Aston Villa,Liverpool,Aston Villa-Liverpool
+2025-02-21,Leicester,Brentford,Leicester-Brentford
+2025-02-22,Everton,Man Utd,Everton-Man Utd
+2025-02-22,Fulham,Crystal Palace,Fulham-Crystal Palace
+2025-02-22,Bournemouth,Wolves,Bournemouth-Wolves
+2025-02-22,Ipswich,Tottenham,Ipswich-Tottenham
+2025-02-22,Arsenal,West Ham,Arsenal-West Ham
+2025-02-22,Southampton,Brighton,Southampton-Brighton
+2025-02-22,Aston Villa,Chelsea,Aston Villa-Chelsea
+2025-02-23,Newcastle,Notts Forest,Newcastle-Notts Forest
+2025-02-23,Man City,Liverpool,Man City-Liverpool
+2025-02-25,Brighton,Bournemouth,Brighton-Bournemouth
+2025-02-25,Crystal Palace,Aston Villa,Crystal Palace-Aston Villa
+2025-02-25,Wolves,Fulham,Wolves-Fulham
+2025-02-25,Chelsea,Southampton,Chelsea-Southampton
+2025-02-26,Tottenham,Man City,Tottenham-Man City
+2025-02-26,Notts Forest,Arsenal,Notts Forest-Arsenal
+2025-02-26,Man Utd,Ipswich,Man Utd-Ipswich
+2025-02-26,Brentford,Everton,Brentford-Everton
+2025-02-26,Liverpool,Newcastle,Liverpool-Newcastle
+2025-02-27,West Ham,Leicester,West Ham-Leicester
+2025-03-08,Notts Forest,Man City,Notts Forest-Man City
+2025-03-08,Liverpool,Southampton,Liverpool-Southampton
+2025-03-08,Brighton,Fulham,Brighton-Fulham
+2025-03-08,Crystal Palace,Ipswich,Crystal Palace-Ipswich
+2025-03-08,Brentford,Aston Villa,Brentford-Aston Villa
+2025-03-08,Wolves,Everton,Wolves-Everton
+2025-03-09,Chelsea,Leicester,Chelsea-Leicester
+2025-03-09,Tottenham,Bournemouth,Tottenham-Bournemouth
+2025-03-09,Man Utd,Arsenal,Man Utd-Arsenal
+2025-03-10,West Ham,Newcastle,West Ham-Newcastle
+2025-03-15,Everton,West Ham,Everton-West Ham
+2025-03-15,Southampton,Wolves,Southampton-Wolves
+2025-03-15,Ipswich,Notts Forest,Ipswich-Notts Forest
+2025-03-15,Man City,Brighton,Man City-Brighton
+2025-03-15,Bournemouth,Brentford,Bournemouth-Brentford
+2025-03-16,Arsenal,Chelsea,Arsenal-Chelsea
+2025-03-16,Fulham,Tottenham,Fulham-Tottenham
+2025-03-16,Leicester,Man Utd,Leicester-Man Utd
+2025-04-01,Arsenal,Fulham,Arsenal-Fulham
+2025-04-01,Wolves,West Ham,Wolves-West Ham
+2025-04-01,Notts Forest,Man Utd,Notts Forest-Man Utd
+2025-04-02,Newcastle,Brentford,Newcastle-Brentford
+2025-04-02,Man City,Leicester,Man City-Leicester
+2025-04-02,Southampton,Crystal Palace,Southampton-Crystal Palace
+2025-04-02,Bournemouth,Ipswich,Bournemouth-Ipswich
+2025-04-02,Brighton,Aston Villa,Brighton-Aston Villa
+2025-04-02,Liverpool,Everton,Liverpool-Everton
+2025-04-03,Chelsea,Tottenham,Chelsea-Tottenham
+2025-04-05,Everton,Arsenal,Everton-Arsenal
+2025-04-05,Crystal Palace,Brighton,Crystal Palace-Brighton
+2025-04-05,Ipswich,Wolves,Ipswich-Wolves
+2025-04-05,West Ham,Bournemouth,West Ham-Bournemouth
+2025-04-05,Aston Villa,Notts Forest,Aston Villa-Notts Forest
+2025-04-06,Fulham,Liverpool,Fulham-Liverpool
+2025-04-06,Brentford,Chelsea,Brentford-Chelsea
+2025-04-06,Tottenham,Southampton,Tottenham-Southampton
+2025-04-06,Man Utd,Man City,Man Utd-Man City
+2025-04-07,Leicester,Newcastle,Leicester-Newcastle
+2025-04-12,Man City,Crystal Palace,Man City-Crystal Palace
+2025-04-12,Brighton,Leicester,Brighton-Leicester
+2025-04-12,Southampton,Aston Villa,Southampton-Aston Villa
+2025-04-12,Notts Forest,Everton,Notts Forest-Everton
+2025-04-12,Arsenal,Brentford,Arsenal-Brentford
+2025-04-13,Liverpool,West Ham,Liverpool-West Ham
+2025-04-13,Chelsea,Ipswich,Chelsea-Ipswich
+2025-04-13,Wolves,Tottenham,Wolves-Tottenham
+2025-04-13,Newcastle,Man Utd,Newcastle-Man Utd
+2025-04-14,Bournemouth,Fulham,Bournemouth-Fulham
+2025-04-16,Newcastle,Crystal Palace,Newcastle-Crystal Palace
+2025-04-19,Everton,Man City,Everton-Man City
+2025-04-19,West Ham,Southampton,West Ham-Southampton
+2025-04-19,Crystal Palace,Bournemouth,Crystal Palace-Bournemouth
+2025-04-19,Brentford,Brighton,Brentford-Brighton
+2025-04-19,Aston Villa,Newcastle,Aston Villa-Newcastle
+2025-04-20,Fulham,Chelsea,Fulham-Chelsea
+2025-04-20,Ipswich,Arsenal,Ipswich-Arsenal
+2025-04-20,Man Utd,Wolves,Man Utd-Wolves
+2025-04-20,Leicester,Liverpool,Leicester-Liverpool
+2025-04-21,Tottenham,Notts Forest,Tottenham-Notts Forest
+2025-04-22,Man City,Aston Villa,Man City-Aston Villa
+2025-04-23,Arsenal,Crystal Palace,Arsenal-Crystal Palace
+2025-04-26,Chelsea,Everton,Chelsea-Everton
+2025-04-26,Brighton,West Ham,Brighton-West Ham
+2025-04-26,Wolves,Leicester,Wolves-Leicester
+2025-04-26,Southampton,Fulham,Southampton-Fulham
+2025-04-26,Newcastle,Ipswich,Newcastle-Ipswich
+2025-04-27,Bournemouth,Man Utd,Bournemouth-Man Utd
+2025-04-27,Liverpool,Tottenham,Liverpool-Tottenham
+2025-05-01,Notts Forest,Brentford,Notts Forest-Brentford
+2025-05-02,Man City,Wolves,Man City-Wolves
+2025-05-03,Aston Villa,Fulham,Aston Villa-Fulham
+2025-05-03,Leicester,Southampton,Leicester-Southampton
+2025-05-03,Everton,Ipswich,Everton-Ipswich
+2025-05-03,Arsenal,Bournemouth,Arsenal-Bournemouth
+2025-05-04,Brighton,Newcastle,Brighton-Newcastle
+2025-05-04,West Ham,Tottenham,West Ham-Tottenham
+2025-05-04,Brentford,Man Utd,Brentford-Man Utd
+2025-05-04,Chelsea,Liverpool,Chelsea-Liverpool
+2025-05-05,Crystal Palace,Notts Forest,Crystal Palace-Notts Forest
+2025-05-10,Ipswich,Brentford,Ipswich-Brentford
+2025-05-10,Fulham,Everton,Fulham-Everton
+2025-05-10,Wolves,Brighton,Wolves-Brighton
+2025-05-10,Southampton,Man City,Southampton-Man City
+2025-05-10,Bournemouth,Aston Villa,Bournemouth-Aston Villa
+2025-05-11,Newcastle,Chelsea,Newcastle-Chelsea
+2025-05-11,Notts Forest,Leicester,Notts Forest-Leicester
+2025-05-11,Tottenham,Crystal Palace,Tottenham-Crystal Palace
+2025-05-11,Man Utd,West Ham,Man Utd-West Ham
+2025-05-11,Liverpool,Arsenal,Liverpool-Arsenal
+2025-05-16,Aston Villa,Tottenham,Aston Villa-Tottenham
+2025-05-16,Chelsea,Man Utd,Chelsea-Man Utd
+2025-05-18,Everton,Southampton,Everton-Southampton
+2025-05-18,West Ham,Notts Forest,West Ham-Notts Forest
+2025-05-18,Brentford,Fulham,Brentford-Fulham
+2025-05-18,Leicester,Ipswich,Leicester-Ipswich
+2025-05-18,Arsenal,Newcastle,Arsenal-Newcastle
+2025-05-19,Brighton,Liverpool,Brighton-Liverpool
+2025-05-20,Man City,Bournemouth,Man City-Bournemouth
+2025-05-20,Crystal Palace,Wolves,Crystal Palace-Wolves
+2025-05-25,Man Utd,Aston Villa,Man Utd-Aston Villa
+2025-05-25,Ipswich,West Ham,Ipswich-West Ham
+2025-05-25,Wolves,Brentford,Wolves-Brentford
+2025-05-25,Southampton,Arsenal,Southampton-Arsenal
+2025-05-25,Liverpool,Crystal Palace,Liverpool-Crystal Palace
+2025-05-25,Notts Forest,Chelsea,Notts Forest-Chelsea
+2025-05-25,Fulham,Man City,Fulham-Man City
+2025-05-25,Newcastle,Everton,Newcastle-Everton
+2025-05-25,Bournemouth,Leicester,Bournemouth-Leicester
+2025-05-25,Tottenham,Brighton,Tottenham-Brighton
